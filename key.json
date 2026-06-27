@@ -1,3 +1,9 @@
 {
-    "devices": []
+    "devices": [
+        {
+            "id": "630DE287",
+            "status": "active",
+            "expire": "2026-07-27 18:30"
+        }
+    ]
 }
