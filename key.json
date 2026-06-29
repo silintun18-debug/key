@@ -1,11 +1,6 @@
 {
     "devices": [
         {
-            "id": "CC9ED2C0B3",
-            "status": "active",
-            "expire": "2026-06-28 20:58"
-        },
-        {
             "id": "CDEB6D48",
             "status": "active",
             "expire": "2027-06-23 20:52"
