@@ -1,3 +1,9 @@
 {
-    "devices": []
+    "devices": [
+        {
+            "id": "1DA97F64",
+            "status": "active",
+            "expire": "2026-09-27 08:54"
+        }
+    ]
 }
